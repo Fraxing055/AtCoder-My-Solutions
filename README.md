@@ -1,2 +1,2 @@
 # AtCoder-My-Solutions
-My solutions and practice records for AtCoder problems (Python, C++).
+My solutions and practice records for AtCoder problems (Python, C++, JavaScript).
